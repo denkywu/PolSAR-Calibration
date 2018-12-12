@@ -1,9 +1,8 @@
 
-the Whitt algorithm ¡ª¡ª Reference ¡¶A General Polarimetric Radar Calibration Technique¡·
+the Whitt algorithm â€”â€” Reference ã€ŠA General Polarimetric Radar Calibration Techniqueã€‹
 
-the PARC algorithm ¡ª¡ª Reference ¡¶Polarimetric SAR Calibration Experiment Using Active Radar Calibrators¡·
+the PARC algorithm â€”â€” Reference ã€ŠPolarimetric SAR Calibration Experiment Using Active Radar Calibratorsã€‹
 
-the Quegan algorithm ¡ª¡ª Reference ¡¶A Unified Algorithm for Phase and Cross-Talk Calibration of Polarimetric Data-Theory and Observations¡·
+the Quegan algorithm â€”â€” Reference ã€ŠA Unified Algorithm for Phase and Cross-Talk Calibration of Polarimetric Data-Theory and Observationsã€‹
 
-the Ainsworth algorithm ¡ª¡ª Reference ¡¶Orientation angle preserving a posteriori polarimetric SAR calibration¡·
-
+the Ainsworth algorithm â€”â€” Reference ã€ŠOrientation angle preserving a posteriori polarimetric SAR calibrationã€‹
